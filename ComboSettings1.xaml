@@ -1,0 +1,14 @@
+<UserControl x:Class="MasterBlazor.WPF.UC.RestForm.ComboSettings1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MasterBlazor.WPF.UC.RestForm"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ComboBox x:Name="comboBox" Width="200" Height="30" DisplayMemberPath="DisplayValue" SelectionChanged="ComboBox_SelectionChanged"/>
+        
+        <!--<Button Content="Save Items" Width="100" Height="30" Margin="120,0,0,0" Click="SaveItems_Click" />-->
+    </Grid>
+</UserControl>
