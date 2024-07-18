@@ -10,7 +10,7 @@
 	  <Company>MasterBlazor</Company>
 	  <Description>WPF Controls</Description>
 	  <Copyright>Free to use</Copyright>
-	  <RepositoryUrl>https://github.com/mhmd2015/MasterBlazor.WPF.Lib.Auth</RepositoryUrl>
+	  <RepositoryUrl>https://github.com/mhmd2015/MasterBlazor.WPF.Lib.RestForm</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <PackageTags>Some custom controls</PackageTags>
 	  <Version>1.0.0</Version>
